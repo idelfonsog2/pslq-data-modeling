@@ -10,6 +10,6 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 
 The `create_tables.py` contains SQL queries that 'CREATE', 'INSERT', '"SEARCH & FETCH"' for the data to be analyze
 
-The python notebooks on the directory where use as a playground to test, build, and vizualize the proper data and functions for the etl.py proccess
+The python notebooks on the directory where use as a playground to test, build, and vizualize the proper data and functions for the etl.py process
 
-[image](sparkify_schema.png)
+[image](./diagram.png)
