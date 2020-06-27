@@ -12,4 +12,4 @@ The `create_tables.py` contains SQL queries that 'CREATE', 'INSERT', '"SEARCH & 
 
 The python notebooks on the directory where use as a playground to test, build, and vizualize the proper data and functions for the etl.py process
 
-[image](./diagram.png)
+![](./diagram.png)
